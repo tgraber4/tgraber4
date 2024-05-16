@@ -1,6 +1,6 @@
  # tgraber4 Profile Page
  ------------------ 
-- ⚡ Personal Website: 
+- ⚡ Personal Website: WIP
 
 <!---
 tgraber4/tgraber4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
