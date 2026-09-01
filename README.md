@@ -4,7 +4,7 @@ tgraber4
 </h1>
 
  ------------------ 
- ![Screenshot 2024-11-09 215226](https://github.com/user-attachments/assets/55a14e23-78dc-471a-96d4-7f3880b5b811)
+<img width="929" height="361" alt="image" src="https://github.com/user-attachments/assets/2098ef98-75a5-4734-8284-103ee67d8974" />
 
 ⚡ Personal Website: https://tylerg.netlify.app/
 
